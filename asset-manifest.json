@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/typescript_coin/static/js/main.03389bc1.js",
+    "main.js": "/typescript_coin/static/js/main.f4e1180d.js",
     "index.html": "/typescript_coin/index.html",
-    "main.03389bc1.js.map": "/typescript_coin/static/js/main.03389bc1.js.map"
+    "main.f4e1180d.js.map": "/typescript_coin/static/js/main.f4e1180d.js.map"
   },
   "entrypoints": [
-    "static/js/main.03389bc1.js"
+    "static/js/main.f4e1180d.js"
   ]
 }
